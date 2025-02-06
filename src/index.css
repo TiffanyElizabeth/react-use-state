@@ -1,0 +1,31 @@
+body {
+    background-color: #E5E5E5;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.accordion {
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.accordion-title {
+    background-color: #EFEFEF;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.accordion-button {
+    background-color: #EFEFEF;
+    border: none;
+    font-size: 24px;
+}
+
+.accordion-list {
+    /*background-color: white;*/
+}
